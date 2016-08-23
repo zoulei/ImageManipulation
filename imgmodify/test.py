@@ -235,3 +235,5 @@ if __name__ == "__main__":
     #filterPic("/media/zoul15/Elements/test","/home/zoul15/img/mey.jpg","/home/zoul15/img/men.jpg")
     #paintViewer("/media/zoul15/Elements/test","/media/zoul15/Elements/test/me/viewer.jpg")
     sortPic("/media/zoul15/Elements/test/me/pk","/media/zoul15/Elements/test")
+
+# add comment line to test git
